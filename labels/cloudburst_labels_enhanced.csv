@@ -1,0 +1,754 @@
+district,date,cloudburst
+Almora,2010-07-04,1
+Almora,2010-07-05,1
+Almora,2010-07-19,1
+Almora,2010-07-20,1
+Almora,2010-07-30,1
+Almora,2010-09-02,1
+Almora,2010-09-17,1
+Almora,2010-09-18,1
+Almora,2010-09-19,1
+Almora,2011-06-30,1
+Almora,2011-07-01,1
+Almora,2011-08-16,1
+Almora,2011-08-18,1
+Almora,2011-09-08,1
+Almora,2012-08-04,1
+Almora,2012-08-23,1
+Almora,2012-09-17,1
+Almora,2013-01-18,1
+Almora,2013-06-16,1
+Almora,2013-06-17,1
+Almora,2013-06-25,1
+Almora,2013-07-07,1
+Almora,2013-07-08,1
+Almora,2013-07-17,1
+Almora,2013-08-30,1
+Almora,2014-07-19,1
+Almora,2014-07-20,1
+Almora,2014-08-15,1
+Almora,2015-03-02,1
+Almora,2015-06-25,1
+Almora,2015-06-29,1
+Almora,2015-07-11,1
+Almora,2016-07-17,1
+Almora,2017-07-06,1
+Almora,2017-09-22,1
+Almora,2017-09-23,1
+Almora,2018-08-24,1
+Almora,2019-06-24,1
+Almora,2019-12-13,1
+Almora,2020-02-23,1
+Almora,2020-05-03,1
+Almora,2020-07-08,1
+Almora,2021-05-20,1
+Almora,2021-06-18,1
+Almora,2021-06-19,1
+Almora,2021-08-20,1
+Almora,2021-10-18,1
+Almora,2021-10-19,1
+Almora,2022-09-25,1
+Almora,2022-10-09,1
+Almora,2023-07-08,1
+Almora,2023-09-10,1
+Almora,2024-07-07,1
+Almora,2024-09-12,1
+Almora,2024-09-13,1
+Almora,2025-08-04,1
+Almora,2025-08-05,1
+Almora,2025-08-14,1
+Almora,2025-08-31,1
+Almora,2025-09-01,1
+Almora,2025-09-02,1
+Bageshwar,2010-07-30,1
+Bageshwar,2010-09-17,1
+Bageshwar,2010-09-18,1
+Bageshwar,2011-06-30,1
+Bageshwar,2011-08-16,1
+Bageshwar,2011-09-08,1
+Bageshwar,2012-09-17,1
+Bageshwar,2012-09-18,1
+Bageshwar,2013-01-18,1
+Bageshwar,2013-06-16,1
+Bageshwar,2013-06-25,1
+Bageshwar,2014-07-19,1
+Bageshwar,2014-07-20,1
+Bageshwar,2015-03-02,1
+Bageshwar,2015-06-26,1
+Bageshwar,2017-07-06,1
+Bageshwar,2017-09-23,1
+Bageshwar,2019-12-13,1
+Bageshwar,2020-02-23,1
+Bageshwar,2020-04-21,1
+Bageshwar,2020-05-03,1
+Bageshwar,2021-05-20,1
+Bageshwar,2021-06-18,1
+Bageshwar,2021-06-19,1
+Bageshwar,2021-10-18,1
+Bageshwar,2021-10-19,1
+Bageshwar,2021-10-20,1
+Bageshwar,2022-09-25,1
+Bageshwar,2022-10-08,1
+Bageshwar,2022-10-09,1
+Bageshwar,2023-09-10,1
+Bageshwar,2024-07-07,1
+Bageshwar,2024-09-13,1
+Chamoli,2004-08-16,1
+Chamoli,2005-08-05,1
+Chamoli,2010-07-30,1
+Chamoli,2010-09-19,1
+Chamoli,2011-08-16,1
+Chamoli,2012-08-05,1
+Chamoli,2012-08-18,1
+Chamoli,2012-09-17,1
+Chamoli,2013-01-18,1
+Chamoli,2013-06-15,1
+Chamoli,2013-06-16,1
+Chamoli,2013-06-17,1
+Chamoli,2014-08-02,1
+Chamoli,2014-08-15,1
+Chamoli,2015-03-02,1
+Chamoli,2016-07-01,1
+Chamoli,2016-07-17,1
+Chamoli,2016-07-23,1
+Chamoli,2017-09-23,1
+Chamoli,2018-07-13,1
+Chamoli,2020-02-23,1
+Chamoli,2020-04-21,1
+Chamoli,2020-05-03,1
+Chamoli,2020-07-30,1
+Chamoli,2021-05-20,1
+Chamoli,2021-06-18,1
+Chamoli,2021-10-18,1
+Chamoli,2022-09-23,1
+Chamoli,2023-07-10,1
+Chamoli,2025-02-28,1
+Chamoli,2025-08-05,1
+Chamoli,2025-08-23,1
+Chamoli,2025-08-29,1
+Chamoli,2025-09-18,1
+Champawat,2010-07-04,1
+Champawat,2010-07-05,1
+Champawat,2010-07-19,1
+Champawat,2010-07-20,1
+Champawat,2010-07-29,1
+Champawat,2010-07-30,1
+Champawat,2010-09-02,1
+Champawat,2010-09-18,1
+Champawat,2011-06-29,1
+Champawat,2011-06-30,1
+Champawat,2011-07-01,1
+Champawat,2011-07-10,1
+Champawat,2011-07-17,1
+Champawat,2011-08-16,1
+Champawat,2011-09-08,1
+Champawat,2012-09-17,1
+Champawat,2012-09-18,1
+Champawat,2013-01-18,1
+Champawat,2013-06-16,1
+Champawat,2013-06-24,1
+Champawat,2013-06-25,1
+Champawat,2013-07-07,1
+Champawat,2013-07-17,1
+Champawat,2013-07-22,1
+Champawat,2013-08-30,1
+Champawat,2014-07-19,1
+Champawat,2014-07-20,1
+Champawat,2015-03-02,1
+Champawat,2015-06-25,1
+Champawat,2015-06-26,1
+Champawat,2017-07-06,1
+Champawat,2017-09-23,1
+Champawat,2018-07-02,1
+Champawat,2019-12-13,1
+Champawat,2020-02-23,1
+Champawat,2020-04-21,1
+Champawat,2020-05-02,1
+Champawat,2020-05-03,1
+Champawat,2020-07-07,1
+Champawat,2020-07-08,1
+Champawat,2021-05-20,1
+Champawat,2021-06-18,1
+Champawat,2021-06-19,1
+Champawat,2021-10-18,1
+Champawat,2021-10-19,1
+Champawat,2021-10-20,1
+Champawat,2022-09-17,1
+Champawat,2022-09-25,1
+Champawat,2022-10-08,1
+Champawat,2022-10-09,1
+Champawat,2023-09-10,1
+Champawat,2024-07-06,1
+Champawat,2024-07-07,1
+Champawat,2024-09-12,1
+Champawat,2024-09-13,1
+Champawat,2025-08-05,1
+Champawat,2025-08-14,1
+Champawat,2025-09-01,1
+Dehradun,2000-07-31,1
+Dehradun,2010-07-30,1
+Dehradun,2010-07-31,1
+Dehradun,2010-08-18,1
+Dehradun,2010-08-21,1
+Dehradun,2010-08-24,1
+Dehradun,2010-09-18,1
+Dehradun,2010-09-19,1
+Dehradun,2011-07-15,1
+Dehradun,2011-07-27,1
+Dehradun,2011-08-16,1
+Dehradun,2011-08-18,1
+Dehradun,2011-09-14,1
+Dehradun,2011-09-15,1
+Dehradun,2012-08-03,1
+Dehradun,2012-08-04,1
+Dehradun,2012-08-18,1
+Dehradun,2012-09-17,1
+Dehradun,2013-01-18,1
+Dehradun,2013-02-05,1
+Dehradun,2013-06-13,1
+Dehradun,2013-06-15,1
+Dehradun,2013-06-16,1
+Dehradun,2013-06-17,1
+Dehradun,2013-07-07,1
+Dehradun,2013-08-30,1
+Dehradun,2014-08-15,1
+Dehradun,2015-03-01,1
+Dehradun,2015-03-02,1
+Dehradun,2015-07-11,1
+Dehradun,2015-08-20,1
+Dehradun,2016-07-16,1
+Dehradun,2016-07-23,1
+Dehradun,2017-06-20,1
+Dehradun,2017-06-26,1
+Dehradun,2017-07-12,1
+Dehradun,2017-08-03,1
+Dehradun,2017-08-21,1
+Dehradun,2017-09-01,1
+Dehradun,2017-09-23,1
+Dehradun,2018-07-11,1
+Dehradun,2018-07-28,1
+Dehradun,2018-08-12,1
+Dehradun,2018-09-24,1
+Dehradun,2019-08-18,1
+Dehradun,2020-07-04,1
+Dehradun,2020-07-30,1
+Dehradun,2021-07-19,1
+Dehradun,2021-07-27,1
+Dehradun,2021-07-28,1
+Dehradun,2021-08-24,1
+Dehradun,2021-08-25,1
+Dehradun,2022-07-30,1
+Dehradun,2022-09-23,1
+Dehradun,2022-09-24,1
+Dehradun,2022-09-25,1
+Dehradun,2023-07-08,1
+Dehradun,2023-07-09,1
+Dehradun,2023-07-10,1
+Dehradun,2023-08-14,1
+Dehradun,2023-08-22,1
+Dehradun,2024-08-01,1
+Dehradun,2025-02-28,1
+Dehradun,2025-06-28,1
+Dehradun,2025-06-30,1
+Dehradun,2025-08-05,1
+Dehradun,2025-08-11,1
+Dehradun,2025-08-25,1
+Dehradun,2025-09-02,1
+Dehradun,2025-09-15,1
+Haridwar,2010-07-30,1
+Haridwar,2010-08-18,1
+Haridwar,2010-08-21,1
+Haridwar,2010-08-24,1
+Haridwar,2010-09-19,1
+Haridwar,2011-07-15,1
+Haridwar,2011-07-27,1
+Haridwar,2011-08-16,1
+Haridwar,2011-08-18,1
+Haridwar,2011-09-14,1
+Haridwar,2011-09-15,1
+Haridwar,2012-08-04,1
+Haridwar,2012-08-18,1
+Haridwar,2012-09-17,1
+Haridwar,2013-01-18,1
+Haridwar,2013-02-05,1
+Haridwar,2013-06-13,1
+Haridwar,2013-06-15,1
+Haridwar,2013-06-16,1
+Haridwar,2013-06-17,1
+Haridwar,2013-06-25,1
+Haridwar,2013-07-07,1
+Haridwar,2013-08-30,1
+Haridwar,2014-08-15,1
+Haridwar,2015-03-01,1
+Haridwar,2015-07-11,1
+Haridwar,2015-08-20,1
+Haridwar,2016-07-16,1
+Haridwar,2016-07-17,1
+Haridwar,2017-06-29,1
+Haridwar,2017-09-01,1
+Haridwar,2017-09-23,1
+Haridwar,2018-07-27,1
+Haridwar,2018-07-28,1
+Haridwar,2019-08-18,1
+Haridwar,2020-07-30,1
+Haridwar,2020-08-20,1
+Haridwar,2021-07-13,1
+Haridwar,2021-07-19,1
+Haridwar,2021-07-27,1
+Haridwar,2021-07-28,1
+Haridwar,2021-08-20,1
+Haridwar,2021-10-18,1
+Haridwar,2022-07-30,1
+Haridwar,2022-09-22,1
+Haridwar,2022-09-23,1
+Haridwar,2022-09-24,1
+Haridwar,2022-09-25,1
+Haridwar,2022-10-09,1
+Haridwar,2023-06-24,1
+Haridwar,2023-07-08,1
+Haridwar,2023-07-09,1
+Haridwar,2023-07-10,1
+Haridwar,2023-07-12,1
+Haridwar,2024-07-24,1
+Haridwar,2024-08-01,1
+Haridwar,2025-06-30,1
+Haridwar,2025-08-05,1
+Haridwar,2025-08-11,1
+Haridwar,2025-09-02,1
+Nainital,2010-07-04,1
+Nainital,2010-07-05,1
+Nainital,2010-07-19,1
+Nainital,2010-07-20,1
+Nainital,2010-07-30,1
+Nainital,2010-09-02,1
+Nainital,2010-09-17,1
+Nainital,2010-09-18,1
+Nainital,2010-09-19,1
+Nainital,2011-06-30,1
+Nainital,2011-07-01,1
+Nainital,2011-08-16,1
+Nainital,2011-08-18,1
+Nainital,2011-09-08,1
+Nainital,2012-08-04,1
+Nainital,2012-08-23,1
+Nainital,2012-09-17,1
+Nainital,2013-01-18,1
+Nainital,2013-06-16,1
+Nainital,2013-06-17,1
+Nainital,2013-06-25,1
+Nainital,2013-07-07,1
+Nainital,2013-07-08,1
+Nainital,2013-07-17,1
+Nainital,2013-08-30,1
+Nainital,2014-07-19,1
+Nainital,2014-07-20,1
+Nainital,2014-08-15,1
+Nainital,2015-03-02,1
+Nainital,2015-06-25,1
+Nainital,2015-06-29,1
+Nainital,2015-07-11,1
+Nainital,2016-07-17,1
+Nainital,2017-07-06,1
+Nainital,2017-09-22,1
+Nainital,2017-09-23,1
+Nainital,2018-08-24,1
+Nainital,2019-06-24,1
+Nainital,2019-12-13,1
+Nainital,2020-02-23,1
+Nainital,2020-05-03,1
+Nainital,2020-07-08,1
+Nainital,2021-05-20,1
+Nainital,2021-06-18,1
+Nainital,2021-06-19,1
+Nainital,2021-08-20,1
+Nainital,2021-10-18,1
+Nainital,2021-10-19,1
+Nainital,2022-09-25,1
+Nainital,2022-10-09,1
+Nainital,2023-07-08,1
+Nainital,2023-09-10,1
+Nainital,2024-07-07,1
+Nainital,2024-09-12,1
+Nainital,2024-09-13,1
+Nainital,2025-08-04,1
+Nainital,2025-08-05,1
+Nainital,2025-08-14,1
+Nainital,2025-08-31,1
+Nainital,2025-09-01,1
+Nainital,2025-09-02,1
+Pauri Garhwal,2005-08-03,1
+Pauri Garhwal,2010-07-30,1
+Pauri Garhwal,2010-07-31,1
+Pauri Garhwal,2010-08-18,1
+Pauri Garhwal,2010-08-21,1
+Pauri Garhwal,2010-08-24,1
+Pauri Garhwal,2010-09-19,1
+Pauri Garhwal,2011-06-30,1
+Pauri Garhwal,2011-07-15,1
+Pauri Garhwal,2011-07-27,1
+Pauri Garhwal,2011-08-16,1
+Pauri Garhwal,2011-08-18,1
+Pauri Garhwal,2011-09-14,1
+Pauri Garhwal,2011-09-15,1
+Pauri Garhwal,2012-08-04,1
+Pauri Garhwal,2012-08-18,1
+Pauri Garhwal,2012-09-17,1
+Pauri Garhwal,2013-01-18,1
+Pauri Garhwal,2013-02-05,1
+Pauri Garhwal,2013-06-13,1
+Pauri Garhwal,2013-06-15,1
+Pauri Garhwal,2013-06-16,1
+Pauri Garhwal,2013-06-17,1
+Pauri Garhwal,2013-06-25,1
+Pauri Garhwal,2013-07-07,1
+Pauri Garhwal,2013-08-06,1
+Pauri Garhwal,2013-08-30,1
+Pauri Garhwal,2014-07-14,1
+Pauri Garhwal,2014-08-01,1
+Pauri Garhwal,2014-08-15,1
+Pauri Garhwal,2015-03-02,1
+Pauri Garhwal,2015-07-11,1
+Pauri Garhwal,2015-08-20,1
+Pauri Garhwal,2016-07-16,1
+Pauri Garhwal,2016-07-17,1
+Pauri Garhwal,2016-07-23,1
+Pauri Garhwal,2017-06-25,1
+Pauri Garhwal,2017-09-01,1
+Pauri Garhwal,2017-09-22,1
+Pauri Garhwal,2017-09-23,1
+Pauri Garhwal,2018-07-28,1
+Pauri Garhwal,2019-08-18,1
+Pauri Garhwal,2020-07-30,1
+Pauri Garhwal,2020-08-20,1
+Pauri Garhwal,2021-05-20,1
+Pauri Garhwal,2021-06-18,1
+Pauri Garhwal,2021-07-18,1
+Pauri Garhwal,2021-07-19,1
+Pauri Garhwal,2021-07-28,1
+Pauri Garhwal,2021-08-20,1
+Pauri Garhwal,2021-10-18,1
+Pauri Garhwal,2022-01-08,1
+Pauri Garhwal,2022-08-20,1
+Pauri Garhwal,2022-09-23,1
+Pauri Garhwal,2022-09-24,1
+Pauri Garhwal,2022-09-25,1
+Pauri Garhwal,2022-10-09,1
+Pauri Garhwal,2023-06-24,1
+Pauri Garhwal,2023-07-08,1
+Pauri Garhwal,2023-07-10,1
+Pauri Garhwal,2023-07-12,1
+Pauri Garhwal,2023-09-10,1
+Pauri Garhwal,2024-07-05,1
+Pauri Garhwal,2024-07-07,1
+Pauri Garhwal,2024-07-24,1
+Pauri Garhwal,2024-09-13,1
+Pauri Garhwal,2025-02-28,1
+Pauri Garhwal,2025-06-30,1
+Pauri Garhwal,2025-08-04,1
+Pauri Garhwal,2025-08-05,1
+Pithoragarh,2002-09-10,1
+Pithoragarh,2004-08-09,1
+Pithoragarh,2007-07-15,1
+Pithoragarh,2010-07-04,1
+Pithoragarh,2010-07-05,1
+Pithoragarh,2010-07-19,1
+Pithoragarh,2010-07-20,1
+Pithoragarh,2010-07-29,1
+Pithoragarh,2010-07-30,1
+Pithoragarh,2010-09-02,1
+Pithoragarh,2010-09-18,1
+Pithoragarh,2011-06-29,1
+Pithoragarh,2011-06-30,1
+Pithoragarh,2011-07-01,1
+Pithoragarh,2011-07-10,1
+Pithoragarh,2011-07-17,1
+Pithoragarh,2011-08-16,1
+Pithoragarh,2011-08-17,1
+Pithoragarh,2011-09-08,1
+Pithoragarh,2012-09-17,1
+Pithoragarh,2012-09-18,1
+Pithoragarh,2013-01-18,1
+Pithoragarh,2013-06-16,1
+Pithoragarh,2013-06-24,1
+Pithoragarh,2013-06-25,1
+Pithoragarh,2013-07-07,1
+Pithoragarh,2013-07-17,1
+Pithoragarh,2013-07-22,1
+Pithoragarh,2013-08-30,1
+Pithoragarh,2014-07-19,1
+Pithoragarh,2014-07-20,1
+Pithoragarh,2014-08-01,1
+Pithoragarh,2015-03-02,1
+Pithoragarh,2015-06-25,1
+Pithoragarh,2015-06-26,1
+Pithoragarh,2016-07-01,1
+Pithoragarh,2017-07-06,1
+Pithoragarh,2017-09-23,1
+Pithoragarh,2018-07-02,1
+Pithoragarh,2019-12-13,1
+Pithoragarh,2020-02-23,1
+Pithoragarh,2020-04-21,1
+Pithoragarh,2020-05-02,1
+Pithoragarh,2020-05-03,1
+Pithoragarh,2020-07-07,1
+Pithoragarh,2020-07-08,1
+Pithoragarh,2021-05-20,1
+Pithoragarh,2021-06-18,1
+Pithoragarh,2021-06-19,1
+Pithoragarh,2021-10-18,1
+Pithoragarh,2021-10-19,1
+Pithoragarh,2021-10-20,1
+Pithoragarh,2022-08-19,1
+Pithoragarh,2022-09-17,1
+Pithoragarh,2022-09-25,1
+Pithoragarh,2022-10-08,1
+Pithoragarh,2022-10-09,1
+Pithoragarh,2023-09-10,1
+Pithoragarh,2024-07-06,1
+Pithoragarh,2024-07-07,1
+Pithoragarh,2024-09-12,1
+Pithoragarh,2024-09-13,1
+Pithoragarh,2025-08-05,1
+Pithoragarh,2025-08-14,1
+Pithoragarh,2025-09-01,1
+Rudraprayag,2005-08-03,1
+Rudraprayag,2010-07-30,1
+Rudraprayag,2010-07-31,1
+Rudraprayag,2010-08-18,1
+Rudraprayag,2010-08-21,1
+Rudraprayag,2010-08-24,1
+Rudraprayag,2010-09-18,1
+Rudraprayag,2010-09-19,1
+Rudraprayag,2011-07-15,1
+Rudraprayag,2011-07-20,1
+Rudraprayag,2011-07-27,1
+Rudraprayag,2011-08-16,1
+Rudraprayag,2011-08-18,1
+Rudraprayag,2011-09-14,1
+Rudraprayag,2011-09-15,1
+Rudraprayag,2012-08-03,1
+Rudraprayag,2012-08-04,1
+Rudraprayag,2012-08-13,1
+Rudraprayag,2012-08-18,1
+Rudraprayag,2012-09-17,1
+Rudraprayag,2013-01-18,1
+Rudraprayag,2013-02-05,1
+Rudraprayag,2013-06-13,1
+Rudraprayag,2013-06-15,1
+Rudraprayag,2013-06-16,1
+Rudraprayag,2013-06-17,1
+Rudraprayag,2013-07-07,1
+Rudraprayag,2013-08-30,1
+Rudraprayag,2014-01-18,1
+Rudraprayag,2014-08-15,1
+Rudraprayag,2015-03-02,1
+Rudraprayag,2016-07-16,1
+Rudraprayag,2016-07-17,1
+Rudraprayag,2016-07-23,1
+Rudraprayag,2017-09-01,1
+Rudraprayag,2017-09-23,1
+Rudraprayag,2018-07-28,1
+Rudraprayag,2018-08-12,1
+Rudraprayag,2019-08-18,1
+Rudraprayag,2020-07-30,1
+Rudraprayag,2021-05-20,1
+Rudraprayag,2021-06-18,1
+Rudraprayag,2021-07-19,1
+Rudraprayag,2021-08-20,1
+Rudraprayag,2021-10-18,1
+Rudraprayag,2022-08-20,1
+Rudraprayag,2022-09-23,1
+Rudraprayag,2022-09-24,1
+Rudraprayag,2022-09-25,1
+Rudraprayag,2023-07-08,1
+Rudraprayag,2023-07-10,1
+Rudraprayag,2023-08-14,1
+Rudraprayag,2024-07-05,1
+Rudraprayag,2024-08-01,1
+Rudraprayag,2024-08-02,1
+Rudraprayag,2025-02-28,1
+Rudraprayag,2025-08-05,1
+Rudraprayag,2025-08-29,1
+Tehri Garhwal,2001-08-31,1
+Tehri Garhwal,2010-07-30,1
+Tehri Garhwal,2010-07-31,1
+Tehri Garhwal,2010-08-18,1
+Tehri Garhwal,2010-08-21,1
+Tehri Garhwal,2010-08-24,1
+Tehri Garhwal,2010-09-18,1
+Tehri Garhwal,2010-09-19,1
+Tehri Garhwal,2011-07-15,1
+Tehri Garhwal,2011-07-20,1
+Tehri Garhwal,2011-07-27,1
+Tehri Garhwal,2011-08-16,1
+Tehri Garhwal,2011-08-18,1
+Tehri Garhwal,2011-09-14,1
+Tehri Garhwal,2011-09-15,1
+Tehri Garhwal,2012-08-03,1
+Tehri Garhwal,2012-08-04,1
+Tehri Garhwal,2012-08-18,1
+Tehri Garhwal,2012-09-17,1
+Tehri Garhwal,2013-01-18,1
+Tehri Garhwal,2013-02-05,1
+Tehri Garhwal,2013-06-13,1
+Tehri Garhwal,2013-06-15,1
+Tehri Garhwal,2013-06-16,1
+Tehri Garhwal,2013-06-17,1
+Tehri Garhwal,2013-07-07,1
+Tehri Garhwal,2013-08-30,1
+Tehri Garhwal,2014-01-18,1
+Tehri Garhwal,2014-08-15,1
+Tehri Garhwal,2015-03-02,1
+Tehri Garhwal,2016-07-16,1
+Tehri Garhwal,2016-07-17,1
+Tehri Garhwal,2016-07-23,1
+Tehri Garhwal,2017-09-01,1
+Tehri Garhwal,2017-09-23,1
+Tehri Garhwal,2018-07-28,1
+Tehri Garhwal,2018-08-12,1
+Tehri Garhwal,2019-08-18,1
+Tehri Garhwal,2020-07-30,1
+Tehri Garhwal,2021-05-20,1
+Tehri Garhwal,2021-06-18,1
+Tehri Garhwal,2021-07-19,1
+Tehri Garhwal,2021-08-20,1
+Tehri Garhwal,2021-10-18,1
+Tehri Garhwal,2022-08-20,1
+Tehri Garhwal,2022-09-23,1
+Tehri Garhwal,2022-09-24,1
+Tehri Garhwal,2022-09-25,1
+Tehri Garhwal,2023-07-08,1
+Tehri Garhwal,2023-07-10,1
+Tehri Garhwal,2023-08-14,1
+Tehri Garhwal,2024-07-05,1
+Tehri Garhwal,2024-08-01,1
+Tehri Garhwal,2025-02-28,1
+Tehri Garhwal,2025-08-05,1
+Tehri Garhwal,2025-08-29,1
+Udham Singh Nagar,2010-07-05,1
+Udham Singh Nagar,2010-07-19,1
+Udham Singh Nagar,2010-07-20,1
+Udham Singh Nagar,2010-07-29,1
+Udham Singh Nagar,2010-07-30,1
+Udham Singh Nagar,2010-09-01,1
+Udham Singh Nagar,2010-09-02,1
+Udham Singh Nagar,2010-09-17,1
+Udham Singh Nagar,2010-09-18,1
+Udham Singh Nagar,2010-09-19,1
+Udham Singh Nagar,2011-06-30,1
+Udham Singh Nagar,2011-07-01,1
+Udham Singh Nagar,2011-07-10,1
+Udham Singh Nagar,2011-07-17,1
+Udham Singh Nagar,2011-08-15,1
+Udham Singh Nagar,2011-08-16,1
+Udham Singh Nagar,2011-09-08,1
+Udham Singh Nagar,2012-08-23,1
+Udham Singh Nagar,2012-09-17,1
+Udham Singh Nagar,2013-01-18,1
+Udham Singh Nagar,2013-06-16,1
+Udham Singh Nagar,2013-06-17,1
+Udham Singh Nagar,2013-06-25,1
+Udham Singh Nagar,2013-07-07,1
+Udham Singh Nagar,2013-07-17,1
+Udham Singh Nagar,2013-07-22,1
+Udham Singh Nagar,2014-07-19,1
+Udham Singh Nagar,2015-03-02,1
+Udham Singh Nagar,2015-06-25,1
+Udham Singh Nagar,2015-06-29,1
+Udham Singh Nagar,2015-06-30,1
+Udham Singh Nagar,2015-07-10,1
+Udham Singh Nagar,2015-07-11,1
+Udham Singh Nagar,2015-09-20,1
+Udham Singh Nagar,2016-07-17,1
+Udham Singh Nagar,2016-07-22,1
+Udham Singh Nagar,2017-07-06,1
+Udham Singh Nagar,2017-07-11,1
+Udham Singh Nagar,2017-07-20,1
+Udham Singh Nagar,2017-09-22,1
+Udham Singh Nagar,2017-09-23,1
+Udham Singh Nagar,2018-08-12,1
+Udham Singh Nagar,2018-08-24,1
+Udham Singh Nagar,2019-06-24,1
+Udham Singh Nagar,2019-12-13,1
+Udham Singh Nagar,2020-02-23,1
+Udham Singh Nagar,2021-05-20,1
+Udham Singh Nagar,2021-06-19,1
+Udham Singh Nagar,2021-07-19,1
+Udham Singh Nagar,2021-10-18,1
+Udham Singh Nagar,2021-10-19,1
+Udham Singh Nagar,2022-09-24,1
+Udham Singh Nagar,2022-09-25,1
+Udham Singh Nagar,2022-10-08,1
+Udham Singh Nagar,2022-10-09,1
+Udham Singh Nagar,2023-07-08,1
+Udham Singh Nagar,2023-09-10,1
+Udham Singh Nagar,2024-07-03,1
+Udham Singh Nagar,2024-07-07,1
+Udham Singh Nagar,2024-09-12,1
+Udham Singh Nagar,2024-09-13,1
+Udham Singh Nagar,2025-08-04,1
+Udham Singh Nagar,2025-08-05,1
+Udham Singh Nagar,2025-08-14,1
+Udham Singh Nagar,2025-08-31,1
+Udham Singh Nagar,2025-09-01,1
+Uttarkashi,2003-09-24,1
+Uttarkashi,2006-07-09,1
+Uttarkashi,2010-07-30,1
+Uttarkashi,2010-07-31,1
+Uttarkashi,2010-08-18,1
+Uttarkashi,2010-08-21,1
+Uttarkashi,2010-08-24,1
+Uttarkashi,2010-09-18,1
+Uttarkashi,2010-09-19,1
+Uttarkashi,2011-07-15,1
+Uttarkashi,2011-07-20,1
+Uttarkashi,2011-07-27,1
+Uttarkashi,2011-08-16,1
+Uttarkashi,2011-08-18,1
+Uttarkashi,2011-09-14,1
+Uttarkashi,2011-09-15,1
+Uttarkashi,2012-08-03,1
+Uttarkashi,2012-08-04,1
+Uttarkashi,2012-08-18,1
+Uttarkashi,2012-09-03,1
+Uttarkashi,2012-09-17,1
+Uttarkashi,2013-01-18,1
+Uttarkashi,2013-02-05,1
+Uttarkashi,2013-06-13,1
+Uttarkashi,2013-06-15,1
+Uttarkashi,2013-06-16,1
+Uttarkashi,2013-06-17,1
+Uttarkashi,2013-07-07,1
+Uttarkashi,2013-08-30,1
+Uttarkashi,2014-01-18,1
+Uttarkashi,2014-08-15,1
+Uttarkashi,2015-03-02,1
+Uttarkashi,2016-07-16,1
+Uttarkashi,2016-07-17,1
+Uttarkashi,2016-07-23,1
+Uttarkashi,2017-09-01,1
+Uttarkashi,2017-09-23,1
+Uttarkashi,2018-07-28,1
+Uttarkashi,2018-08-12,1
+Uttarkashi,2019-08-18,1
+Uttarkashi,2020-07-30,1
+Uttarkashi,2021-05-20,1
+Uttarkashi,2021-06-18,1
+Uttarkashi,2021-07-18,1
+Uttarkashi,2021-07-19,1
+Uttarkashi,2021-08-20,1
+Uttarkashi,2021-10-18,1
+Uttarkashi,2022-08-19,1
+Uttarkashi,2022-09-23,1
+Uttarkashi,2022-09-24,1
+Uttarkashi,2022-09-25,1
+Uttarkashi,2023-07-08,1
+Uttarkashi,2023-07-10,1
+Uttarkashi,2023-08-10,1
+Uttarkashi,2023-08-14,1
+Uttarkashi,2024-07-05,1
+Uttarkashi,2024-07-26,1
+Uttarkashi,2024-08-01,1
+Uttarkashi,2025-02-28,1
+Uttarkashi,2025-06-29,1
+Uttarkashi,2025-08-05,1

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ district }} — Cloudburst Forecast</title>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        overflow: hidden;
+      }
+      #leftMap {
+        width: 40%;
+        height: 100vh;
+      }
+      #rightPanel {
+        width: 60%;
+        height: 100vh;
+        overflow-y: auto;
+      }
+      #miniMap {
+        height: 100%;
+        width: 100%;
+      }
+    </style>
+  </head>
+
+  <body class="flex bg-gray-100">
+    <div id="leftMap" class="relative shadow-md">
+      <div id="miniMap"></div>
+      <div
+        class="absolute top-4 left-4 bg-white p-2 rounded shadow-md text-sm font-semibold"
+      >
+        {{ district }}
+      </div>
+      <button
+        onclick="window.location.href='/'"
+        class="absolute bottom-4 left-4 bg-blue-600 hover:bg-blue-700 text-white px-3 py-1 rounded shadow-md text-sm"
+      >
+        ← Back to Map
+      </button>
+    </div>
+
+    <div id="rightPanel" class="p-6 space-y-6 bg-white">
+      <div class="flex justify-between items-center border-b pb-3">
+        <h1 class="text-2xl font-bold text-blue-700">
+          {{ district }} Weather Dashboard
+        </h1>
+        <div class="flex items-center space-x-2">
+          <label for="searchDate" class="font-semibold text-sm">Search Date:</label>
+          <input
+            type="date"
+            id="searchDate"
+            class="border rounded px-2 py-1 text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+          />
+          <button
+            id="searchBtn"
+            class="bg-blue-600 hover:bg-blue-700 text-white px-3 py-1 rounded text-sm"
+          >
+            Search
+          </button>
+        </div>
+      </div>
+
+      <div id="forecastCards" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+      </div>
+
+      <div class="space-y-8 mt-6">
+        <div>
+          <h2 class="text-lg font-semibold text-gray-800 mb-2">
+            🌧️ Cloudburst Probability Trend
+          </h2>
+          <canvas id="probChart" height="120"></canvas>
+        </div>
+        <div>
+          <h2 class="text-lg font-semibold text-gray-800 mb-2">
+            🌡️ Temperature Trend (°C)
+          </h2>
+          <canvas id="tempChart" height="120"></canvas>
+        </div>
+        <div>
+          <h2 class="text-lg font-semibold text-gray-800 mb-2">
+            💧 Humidity Trend (%)
+          </h2>
+          <canvas id="humidityChart" height="120"></canvas>
+        </div>
+        <div>
+          <h2 class="text-lg font-semibold text-gray-800 mb-2">
+            🌬️ Pressure Trend (hPa)
+          </h2>
+          <canvas id="pressureChart" height="120"></canvas>
+        </div>
+        <div>
+          <h2 class="text-lg font-semibold text-gray-800 mb-2">
+            ☔ Rainfall Trend (mm)
+          </h2>
+          <canvas id="rainChart" height="120"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const districtName = "{{ district }}";
+    </script>
+    <script src="/static/js/district_page.js"></script>
+  </body>
+</html>

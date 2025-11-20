@@ -1,0 +1,120 @@
+/* ===============================
+   General Styles
+=============================== */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ===============================
+   Map Styling
+=============================== */
+#map {
+  height: calc(100vh - 80px);
+  width: 100%;
+  z-index: 1;
+}
+
+/* ===============================
+   Loading Screen
+=============================== */
+#loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.92);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  transition: opacity 0.6s ease, visibility 0.6s ease;
+}
+
+.loader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transform: none !important;
+}
+
+.spinner {
+  border: 4px solid rgba(0, 0, 0, 0.1);
+  border-left-color: #3498db;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  margin-bottom: 10px;
+  animation: spin 1s linear infinite;
+  will-change: transform;
+}
+
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#loading-overlay.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.loader p {
+  font-family: "Poppins", sans-serif;
+  color: #333;
+  font-weight: 500;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+/* ===============================
+   Tooltip & Legend
+=============================== */
+.district-tooltip {
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 6px 10px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+
+/* ===============================
+   Enlarged, modern map legend
+=============================== */
+.info.legend {
+  background: white;
+  padding: 14px 18px;
+  line-height: 22px;
+  color: #222;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  border: 1px solid #ddd;
+  min-width: 160px;
+}
+
+.info.legend strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #111;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+
+.info.legend i {
+  width: 20px;
+  height: 20px;
+  float: left;
+  margin-right: 10px;
+  border-radius: 3px;
+  opacity: 0.95;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
